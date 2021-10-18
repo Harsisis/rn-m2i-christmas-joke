@@ -1,5 +1,5 @@
 import React from 'react';
-import {Text, ScrollView, ActivityIndicator, View, Alert} from 'react-native';
+import {ActivityIndicator, Alert, ScrollView, Text, View} from 'react-native';
 import styles from './styles/homePage.style';
 import {charactersStore, TCharac} from '../characters/stores/charactersStore';
 import {CharacterCard} from '../characters/CharacterCard';
