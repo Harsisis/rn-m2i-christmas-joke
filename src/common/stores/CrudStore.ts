@@ -1,11 +1,4 @@
-enum API_METHODS {
-  GET = 'GET',
-  POST = 'POST',
-  DELETE = 'DELETE',
-  PATCH = 'PATCH',
-}
-
-export abstract class CrudStore {
+export abstract class CrudStore implements IApiStore {
   protected apiPath = '';
 
   protected async get(resource = '') {
