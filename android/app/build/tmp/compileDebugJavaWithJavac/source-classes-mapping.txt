@@ -1,0 +1,14 @@
+com/gotapp/ReactNativeFlipper.java
+ com.gotapp.ReactNativeFlipper
+ com.gotapp.ReactNativeFlipper$1
+ com.gotapp.ReactNativeFlipper$2
+ com.gotapp.ReactNativeFlipper$2$1
+com/gotapp/MainApplication.java
+ com.gotapp.MainApplication
+ com.gotapp.MainApplication$1
+com/gotapp/MainActivity.java
+ com.gotapp.MainActivity
+com/gotapp/BuildConfig.java
+ com.gotapp.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
